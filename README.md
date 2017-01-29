@@ -1,9 +1,7 @@
 # beSB
 
 ```
-if (user.name.startsWith('bes')
-    && user.name.endsWith('66')
-    && user.name.length === 6) {
+if (user.name.match(/^(B|b)es(b|t)66$/)) {
   echo 'Hello!'
 } else {
   echo 'Never beSB'
