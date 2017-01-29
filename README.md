@@ -1,4 +1,4 @@
-## Never beSB
+# Never beSB
 
 ```
 if (user.name.match(/^(B|b)es(b|t)66$/)) {
