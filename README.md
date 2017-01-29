@@ -7,4 +7,6 @@ if (user.name.match(/^(B|b)es(b|t)66$/)) {
   echo 'Never beSB'
 }
 ```
-Links: [coxxsb](//coxxsb.com)
+**beSB** is a site of Project SB™.
+
+Other Project SB™ sites: [coxxsb](//coxxsb.com)
