@@ -9,6 +9,6 @@ if (user.name.match(/^(B|b)es(b|t)66$/)) {
 ```
 **besb66** is a site of Project SB™.
 
-Other Project SB™ sites: [coxxsb](//coxxsb.com)
+Other Project SB™ sites: [coxxsb](//coxxsb.com) [djsb](https://杜鹃送宝.com)
 
 c<!-- q3{welcome_to_besb66_official_website!} -->
